@@ -1,0 +1,618 @@
+<!-- For more information on HTML point Mosaic at the URL -->
+<!-- http://www.nas.nasa.gov/RNR/Education/learning.html  -->
+
+<!-- This is also a comment.  Comments begin with a less-than symbol, -->
+<!-- a exclamation mark, and two '-' dashes.  They end with two  -->
+<!-- dashes and a greater-than sign.  less-than and greather than -->
+<!-- signs have  special meaning,  Use &lt for less-than and -->
+<!-- &gt for greather-than -->
+
+<title>Chris Budd's Home Page</title>
+<!-- The above is a  title.  Note that the ending tag is the same as -->
+<!-- beginning tag but has a / after the less-than sign -->
+
+<!-- To add a picture of yourself get an image    -->
+<!-- and put it into this file ~mascjb/public_html/photo.gif.     -->
+<!-- Then add the following line after these comments... -->
+<!-- <img src="http://www.bath.ac.uk/~mascjb/photo.gif" alt="My face.">
+<!-- After this you will need to make the file available for reading by -->
+<!-- others. To do this type "chmod og+r ~mascjb/public_html/photo.gif" -->
+<!-- (without the quotes of course) at your shell prompt.  -->
+<!-- The alt is what is seen by folks without only text oriented -->
+<!-- viewing devices such as lynx. -->
+
+<br>
+<br>
+
+<h1>Chris Budd</h1>
+<!-- This is a first level header - headers can be from 1 to 7 with -->
+<!-- differnt size fonts -->
+
+<h1> <img width="525" height="120" src="bath.gif" align=right  alt="-"> </h1>
+<h2> <b>Professor Chris  J Budd OBE, FIMA, C Math, NTF </b> </h2>
+
+<!-- The br tag is a line break -->
+<!-- the p tag is a paragraph break-->
+<!-- The b tag is bold/unbold, i is italics, pre is preformatted -->
+<!-- Tags such as b and h always need an ending tag such as /b or /h -->
+<!-- the p tag is an exception and does not need an ending tag. -->
+<hl> <img height="800" width="500" src="wales1.JPG" align=top alt="-"> 
+</hl>
+
+<br>
+<br>
+Chris, Josh and Monty. Josh is in the red coat and
+I am the one with the green hat.
+<hr>
+
+<br>
+<br>
+
+<H1><EM> General stuff </EM></H1>
+
+
+<!-- <a href="MA10236.html" > MA10236 </a>  -->
+<!-- <a href="https://hackmd.io/zhpChBKWTQuUqMcLri_MGw?view" > new </a> -->
+
+<br>
+
+<!-- <a href="Exsht1.html" > spotty </a> -->
+
+<br><b> Positions: </b>
+
+<br>
+<br>
+<ul> 
+<li> Professor of Applied Mathematics, <a href="https://www.bath.ac.uk/departments/department-of-mathematical-sciences/"
+> Dept. of Mathematical Sciences, 
+University of Bath </a>
+<h1> <img width="350" height="80" src="bath.gif" align=top alt="-"> </h1>
+<br>
+
+<li> Director of Knowledge Exchange for <A HREF="http://www.bath.ac.uk/imi/" > 
+Bath Institute for Mathematical Innovation  </a> (IMI) 
+<h1><img width="80" height="80" src="IMI-logo.gif" align=top alt="-"> </h1>
+<br>
+
+<li> Director of the 
+<A HREF="https://www.bath.ac.uk/research-centres/centre-for-nonlinear-mechanics/" > 
+Centre for Nonlinear Mechanics </a>
+
+<br>
+
+<br>
+
+<li> <A HREF="https://www.gresham.ac.uk/professors-and-speakers/professor-chris-budd/"
+ > Gresham Professor of Geometry </a> Gresham College
+<h1><img width="80" height="80" src="Gresham_College_crest.jpg" align=top alt="-"> </h1>
+
+ 
+<br>
+<li> Professor of Mathematics at the <A HREF="https://www.rigb.org/  " > Royal Institution of Great 
+Britain </a>
+<h1> <img width="338" height="60" src="ri-logo-retina.png" align=top alt="-"> </h1>
+</ul>
+
+<br>
+<br>
+<br>
+
+<p><b>Postal Address:</b>
+
+
+<br>
+
+<br> Dept. of Mathematical Sciences
+<br> University of Bath
+<br> Claverton Down 
+<br> Bath
+<br> BA2 7AY
+<br> United Kingdom
+<br>
+<br>
+
+<p><b>Telephone:</b> +44 (0)1225 386241
+<!-- The br tag is a line break -->
+<br><b>Fax:</b> +44 (0)1225 386492
+
+<p><b>E-mail Address:</b> mascjb@bath.ac.uk
+<br> <b> Twitter: </b> @cjbfordogs
+
+<br>
+<br>
+
+Radio Amateur call sign:  <b>  G4NBG. </b>   I am often found on 2m SSB
+
+  
+<!-- The above creates an unordered list of items. It begins with     -->
+<!-- ul tag and each list item has an li tag. li tags are another     -->
+<!-- tag like the p tag that doesn't need an matching closing i tag -->
+<!--                                                                  -->
+<!-- If you add text without any tags then it will be formatted and   -->
+<!-- displayed by the web client. Some folks like to add a little     -->
+<!-- bibliography here to help spice up their home page. Enjoy.       -->
+<p><b> Here is my <a href="CV-IMI.pdf"> Curriculum Vitae</a></b>
+
+  <br>
+
+  <br>
+
+  <hr>
+
+  <br>
+  
+  <h1>  Publications, talks and resources </h1>
+
+ 
+
+  <a href="acpubs.html" > Academic articles </a>
+
+  <br>
+ 
+
+  <a href="actalks.html" > Academic presentations </a>
+
+  <br>
+  <br>
+
+  <a href="pubpubs.html" > Articles for the general public about maths </a>
+
+  <br> 
+  <a href="pubtalks.html" > Talks for the general public about maths </a>
+
+  <br>
+
+  <a href="master.html" > Resources for Royal
+    Institution Mathematics Masterclasses, sixth form classes, and Monty Maths  </a>
+  <br>
+  <br>
+  
+  Undergraduate course notes. Note that much more comprehensive course materials can be found on Moodle.
+  <br>
+  <br>
+  <a href="Total.pdf" > MA10236: Mathematical Methods 1B </a>
+  <br>
+  <a href="Guide2020.docx" > MA30241: Communicating Maths </a>
+
+  <br>
+  <br> 
+<hr>
+
+<br>
+
+<H1><EM>Research Interests</EM></H1>
+
+
+<br>
+
+I am interested in the theory, application and computation of nonlinear problems (linear problems are for cissies) with special interest in problems 
+which arise in industry. 
+<ul>
+<li> <A HREF="https://people.bath.ac.uk/mascjb/Papers09/acta.pdf"> 
+Adaptive moving mesh methods </a>, with applications in meteorology 
+and modelling climate
+
+<br>
+
+<br>
+<hl> <img height="200" width="200" src="x12.png" align=top alt="-"> </hl>
+
+<br>
+<br>
+
+<li> Data assimilation methods, with applications in meteorology and climate
+<li>  (Digital) signal and image processing. 
+ Inverse problems including <a href="https://www.youtube.com/watch?v=jreiT-\
+aogpY">
+saving the whales </a> 
+<li> The mathematics of machine learning
+<li> Nonlinear elliptic and parabolic partial differential equations, especially problems with singularities.
+<li> Non-smooth dynamical systems 
+(with applications to climate and machine learning) see my 
+book on  <A
+HREF="http://www.springer.com/math/dyn.+systems/book/978-1-84628-039-9">
+Piecewise-smooth Dynamical Systems: Theory
+and Applications,</a> 
+<h1><img height="200" width = "120" src="cda_displayimage.jpg" align=top alt="-"> </h1>
+
+<li> <A HREF="https://ima.org.uk/13128/study-groups-with-industry-what-is-the-value/"
+> Industrial and interdisciplinary applied mathematics </a>
+<li> <a href="revnew9.ps.gz">Geometric integration
+and its applications.</a> 
+<li> Optimal transport methods (with applications to mesh generation, propagation and machine learning)
+<li> <A HREF="https://www.youtube.com/watch?v=w4O4jK-lZrI"> 
+Numerical weather and climate prediction </a>
+
+<br>
+<br>
+
+<hl> <img height="200" width="200" src="climate.png" align=top alt="-"> 
+</hl>
+
+<br>
+<br>
+
+<li> Power electronics
+
+</ul>
+I also have a very strong interest in interdisciplinary 
+projects closely linked to applications ranging from geology
+to micro-wave cooking and from digestion to folk dancing.
+
+<br>
+
+I am keen to take on PhD students in any of these areas. They can join my 
+fabulous <A HREF="https://people.bath.ac.uk/hw454/IndustrialMaths"> 
+group of 
+PhD students </a> all involved in research in industrial maths 
+and/or environmental sciences.
+
+<br>
+
+<br>
+
+<b> Current PhD Projects </b>
+
+<ul>
+
+<li> <em> Raising the roof </em>.  NERC PhD. Matt Griffith, Nick Mitchell, Met Office
+<li> <em> Non-smooth models for climate </em>  Botswana PhD Kgomotso Susan Morupisi
+<li> <em> Indoor LTE and WiFi propagation </em> ICASE PhD. Hayley Wragg, Keith Briggs (BT)
+<li> <em> Inverse problems in EEG </em> Shaerdan Shataer
+<li> <em> Surge in turbochargers </em> Samba/IAAPS PhD. Kate Powers, Chris Brace, Paul Milewski, Colin
+<li> <em> Mitigation zones for seismic surveys and marine animals </em> KTP/PhD Guillermo Jimenez Arranz, Phillipe Blondel, SEICHE
+<li> <em> Adaptive mesh methods for the shallow water equations </em> Simone Appela, Tristan Pryer, Met Office
+<li> <em> Machine learning for CME predications </em> Chinese PhD Scholarship, Tina Zhou, Tom Haines, Met Office
+<li> <em> Impact of climate change on cocoa farming </em> Samba PhD. Tosin Babasola, CRIN
+<li> <em> Inverse problems in ocean acoustics </em> NPL funded PhD, Gianluca Audone, Matt Nunes, Phillipe Blondel, NPL
+</ul>
+
+<br>
+
+<br>
+
+<b> Current/recent PDRA Research Projects </b>
+
+<ul> 
+
+<li> <em> MIVOR:  Impact of climate change on the National Grid </em> NGC funded. Beate Erhardt, Mixhong ??, Ghenghong Gu, NGC
+<li> <em> Machine learning for hip fracture detection </em> 
+Arthritis Society, Beate Erhardt, Richie Gill
+<li> <em> Moving meshes on the sphere with applications to weather prediction </em> NERC
+<li> Along with Victor Galaktionov and Johannes Zimmer I was coordinator
+of the Bath Node of the FIRST (Fronts and Interfaces in Science
+and Technology) Marie Curie training network. See
+<A HREF="http://www.mat.ucm.es/~FIRST/"> FIRST Network </a> for more information
+about the project, workshops and positions.
+</ul> 
+<br> 
+<br>
+
+<hr>
+
+
+<H1><EM> Knowledge Exchange:</EM></H1>
+
+<br>
+<br>
+
+I believe strongly in the power of knowledge exchange centred around mathematics.
+Mathematics is both the enabler of advances in other disciplines and industry,
+it has also much to learn from the the challenges that working in these areas
+brings. For an account of my views on this see my 24 
+<a href="https://www.gresham.ac.uk/professors-and-speakers/professor-chris-budd/ " > Gresham lectures  </a>
+on 'Mathematics and the making of the modern world. 
+
+<ul>
+<li> I am a founder member of the Virtual Forum for Knowledge Exchange in the 
+Mathematical Sciences <a href="https://www.vkemsuk.org/"> V-KEMS </a> 
+together with the INI, the ICMS, the KTN and a number of other 
+universities. 
+  
+<br>
+<br>
+
+See the <a href="https://www.bath.ac.uk/announcements/imi-plays-leading-role-in-new-uk-virtual-forum-for-government-and-industry-collaborations/
+" > press release </a> and 
+<a href="https://www.youtube.com/watch?v=_rsce0W01zQ"> presentation </a>
+about the work of V-KEMS.
+
+<br>
+<br>
+
+V-KEMS
+provides a variety of support mechanisms for on-line knowledge exchange. Much of 
+this is targeted to address the problems brought by the COVID-19 pandemic. V-KEMS
+works closely with the Royal Society RAMP programme, as well as SPI-M, DfE and UUK.
+<li> I am a leading supporter of <A HREF="https://ima.org.uk/13128/study-groups-with-industry-what-is-the-value/"
+> (Virtual) Study Groups (VSGs)</a> as a hugely effective way of  solving problems
+using (focused teams of) mathematicians, of motivating mathematicians to work on real life problems, and  of learning new mathematics from 
+  applications.  Here is an image of a VSG in action
+
+
+<br>
+<br>
+
+<hl> <img height="200" width="350" src="Not-your-typical-workshop-photo.jpg" align=top alt="-"> </hl>  
+
+<br>
+<br>
+
+<li> I am part of the management team for the Bath
+<a href="https://www.bath.ac.uk/courses/postgraduate-2020/taught-postgraduate-courses/msc-modern-applications-of-mathematics/"> MSc in Modern Applications of mathematics. </a> 
+Nearly all of the students on this course do a 3 month project with industry. I coordinate
+these projects which are an excellent way for academics to engage with industry. 
+<li> I run the <a href="https://wiki.bath.ac.uk/display/cnmseminar/2020-2021+Schedule" >
+AIMS series </a> of seminars in applied and interdisciplinary mathematics.
+<li> I contributed to, and strongly support the Bond Review on the 
+<a href="https://epsrc.ukri.org/newsevents/pubs/era-of-maths/"> The Era of Mathematics </a>
+and serve on a number of working groups which are implementing its recomendations.  
+<li> I am on the International Advisory Committee of the EPSRC/LWEC <A HREF="http://www.climathnet.org/" >
+    CliMathNet network </a>,
+<h1> <img height="100" width="350" src="climathnet.png" align=top alt="-"> </h1>
+which 
+brings together
+  mathematicians, climate scientists and policy makers interested in the science and the impact
+  of climate change.
+</ul>
+
+<br>
+<br>
+
+
+
+<hr>
+
+
+<H1><EM>Education and Public Engagement Interests:</EM></H1>
+
+
+<h1><img width="350" height="200" src="chris-budd.jpg" align=top alt="-"> </h1>
+
+I have a passionate interest in promoting mathematics to the
+general public, especially to young people. I love giving
+talks about maths to any audience and have appeared at many science festivals including
+New Scientist Live (above) and the Heidelberg Luareate Forum.
+
+<br>
+
+
+<h2> <b> Please get in touch
+  if you would like me to give you a talk.</b> </h2>
+
+
+<br>
+
+I am happy to give FREE talks to all ages on many subjects related
+to the importance and relevance of mathematics to real life.
+
+
+<br>
+<br>
+For examples of talks see
+my <A HREF="https://www.gresham.ac.uk/professors-and-speakers/professor-chris-budd/"
+ > 24 Gresham lectures </a> on the theme of 'Maths and the making
+of the modern world' (which will be coming out as a series of books) and also
+<a href="pubpubs.html"> fun presentations for the general public </a>. 
+
+<br>
+<br>
+
+More details of
+my activites in maths education and public engagement are given below
+
+<br>
+
+<ul>
+<li> Director of the  
+<A HREF="http://bathtapsintoscience.com/"> Bath Taps
+Into Science Festival </a>. The 2009 event won the
+<A HREF = "http://www.britishscienceassociation.org/"> British Science Association </a>  award
+for the best science festival during National Science and Engineering Week.
+If you want to have a look at Bath Taps in action here is a <A href="http://vimeo.com/21706314" > video </a>.
+<li> <a href="https://www.siam.org/about-siam/committees/education-committee">
+SIAM Education Committee </a>
+
+
+<li> Co-author of the
+<A HREF="https://www.stem.org.uk/resources/elibrary/resource/32918/world-class-mathematics-education-all-our-young-people#&gid=undefined&pid=1">  
+Vorderman Report </a> on the current state
+and future of Maths Education in the UK
+<li>Director of the Bath series of <A href="https://www.rigb.org/education/masterclasses/our-networks/secondary-network
+"> Royal Institution Mathematics Masterclasses </a>. 
+
+<br>
+My book <A HREF="http://www.oup.co.uk/isbn/0-19-850769-0">.Mathematics
+Galore </a> co-authored with Chris Sangwin, 
+is a collection of these classes. See the 
+<A HREF="http://plus.maths.org/issue15/reviews/book1/"> review </a>
+in Plus Maths.
+<h1><img width="300" height="160" src="MathsG.jpg" align=top alt="-"> </h1>
+
+
+<li> I am the former chair, and now serve on the Risk and Compliance Committee of the <A HREF="https://www.ukmt.org.uk/" > United Kingdom Maths Trust </a>  (UKMT) which coordinates maths competitions across the UK. The 
+UKMT works with 80% of the schools in the UK, and over 700,000 young people per year take part in its activities. 
+<h1><img height="120" width="120" src="logo-ukmt-colour.png" align=top alt="-"> </h1>
+
+<li> I was the Vice-President for the <A HREF="http://www.ima.org.uk/" > Institute for Mathematics and its Applications (IMA) </a>
+responsible for Communications and Outreach and also for the 50th Birthday celebrations in 2014. As part of this
+ I co-edited the book '50 Visions of Mathematics' which has 50 popular maths articles and 50 images of maths. It
+also has various proofs of Pythagoras' Theorem in different literary styles. (I was the C in Sam Parc) 
+
+<h1><img width="121" height="160" src="50v.jpg" align=top alt="-"> </h1>
+
+ 
+<li> I contribute to the IMA <a href="https://www.mathscareers.org.uk/article/maths-matters/">
+Maths Matters </a> series of short, punchy, articles on the impact of mathematics, and also to the
+IMA <a href="https://www.mathscareers.org.uk/"> Maths Careers </a> website.
+
+
+<li> In 2010 I was director of the exhibit in the
+  Royal Society Summer Exhibition called
+
+  <h1><img src="licw-logo200T.png" align=top alt="-"> </h1>
+which gave a hands on experience of the
+way that maths helps us understand the complexities in the world,
+from weather forecasting and chaos to energy harvesting and from bouncing balls
+and sand to flocks and crowds.
+If you are mad enough to want to run
+such an exhibition yourself then
+have a look at the user guide
+<a href ="PUSArticles/LivinginaComplexWorld.doc">
+A user guide to running a Royal Society Summer Exhibition.
+</a>
+
+</ul>
+
+<br>
+
+
+  
+<hr>
+
+<br>
+
+<H1><EM> Teaching </EM></H1>
+
+<br>
+
+<h1><img width="280" height="200" src="euler.jpg" align=top alt="-"> </h1>
+
+<br>
+
+My philosophy for teaching is simple. Be aware of (and enjoy) you
+audience and be hugely enthusiastic about your subject.
+<a href ="PUSTalks/TeachandRes.ppt">
+Anyone that says that teaching and research don't go together is
+talking rubbish</a> 
+
+<br>
+<br>
+
+I am proud that in recognition of my university teaching I have been awarded a
+<a href="https://www.advance-he.ac.uk/awards/teaching-excellence-awards/national-teaching-fellowship " > National Teaching Fellowship </a>
+
+<br>
+<br>
+
+<b> Current courses </b>
+
+
+<br>
+<br>
+<a href="Total.pdf" > MA10236: Mathematical Methods 1B </a>
+
+<br>
+
+This course teaches basic vector calculus in 3D and
+then applies it to problems in mechanics. It concludes with an introduction to mathematical modelling. 
+<br>
+<br>
+<a href="Guide2020.docx" > MA30241: Communicating Maths </a>
+<br>
+This course teaches students how to be good communicators of their subject. More information is given in 
+<a href ="PUSTalks/MathsCommunicators.ppt">
+    Maths Communicators </a>
+
+<br>
+<br>
+If you are interested in running such a course, then the student guidebook is given above.
+A HE-STEM  guide to communicating maths courses in general is given in
+  <a href="Amended_guide_to_good_practice-1-1.pdf"> Student involvement in STEM
+    activities: A guide to good practice </a> and an external HE-STEM evaluative study is given
+  in <a href="2Finalresults_of_practice.pdf" > Student involvement in STEM activities: Research Results </a>
+
+  
+
+<br>
+<br>
+ 
+<b> Previous courses </b>
+
+<br>
+<br>
+
+Many courses in applied and computational mathematics from first year
+undergraduate to MSc, including
+ <A HREF="MA50174/MA50174.html~">
+   MA50174 Advanced Numerical Methods </a> containing a MATLAB
+tutorial and a complete set
+ of notes on Advanced Numerical Methods
+ and how to use MATLAB to solve mathematical problems.
+<br>
+<br>
+
+
+<hr>
+
+
+<hr>
+<!-- The above tag creates a horizontal rule across the page - a divider -->
+
+
+<h1>  <em>  Facts about hamsters </em> </h1>
+
+<h1><img width="240" height="200" src="arwen.jpeg" align=top alt="-"> </h1>
+
+
+By popular demand, here are some facts about hamsters
+
+<br>
+<br>
+
+<ul>
+
+  <li>  There are 25 species of hamster
+  <li> The largest breed of hamster is the European hamster
+  <li> All Syrian hamsters as pets are descended from on pair in 1930
+  <li> The Syrian hamster is also known as the teddy bear hamster
+  <li> Hamsters can learn their name
+  <li> Hamster comes from the German word 'hamstern' meaning hoard
+  <li> Hamsters are related to lemmings
+  <li> Avoid feeding a hamster chocolate or coffee
+
+</ul>
+
+<br>
+<br>
+
+<hr>
+
+
+<H1><EM>Quotes:</EM></H1>
+
+The following summarise my attitude to life, mathematics etc. 
+<ul>
+<li> I'm playing all the right notes, but not necessarily in the right order.
+<li> Call that a band, I've seen better bands on a cigar.
+<li> "Captain, for me to save our lives I have to perform actions
+which violate several known laws of physics and require me to develop
+a completely new theoretical understanding of five-dimensional
+hyperspace, all in under 5 seconds", " Do it Spock!"
+<li> Team player is an anagram of Pay me later
+<li> If you think that you know all the answers, then you are not 
+asking the right questions
+<li> Money cannot buy you happiness. But it can buy you marshmallows.
+<li> He digs deepest who deepest digs.
+<li> The man with the biggest foot has the largest shoes
+  <li> This statement actually doesn't have the property which it claims that it doesn't have!
+<li> There is no I in TEAM. There is also no I in Hamster. However there is an I in Gerbil 
+and two Is in Guinea Pig
+<li> All known mathematics has already been discovered by an obscure Russian working in the late 1940's
+<li> If all else fails, hug your teddy.
+</ul>
+
+
+</li>
+<hr>
+<!-- I have added a bit of text with a hyperlink to the Bath          -->
+<!-- Home page. The link consists of http: to indicate that           -->
+<!-- you want to use the hyper text transfer protocal. It then has    -->
+<!-- Has the name of the machine where the page resides and then      -->
+<!-- the document you wish to link to. It then has a bit of text      -->
+<!-- describing the link. This is followd by the /a, this text is     -->
+<!-- is called an anchor and is what the user will click on.          -->
+
+[<A HREF="http://www.bath.ac.uk/">University of Bath</a>]
+
+[<A HREF="http://www.maths.bath.ac.uk/">Dept. of Mathematics</a>]
